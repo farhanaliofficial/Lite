@@ -1,7 +1,7 @@
 {
-  "versionCode":1,
-  "versionName":"0.1",
+  "versionCode":2,
+  "versionName":"0.2",
   "content":"1.add new features#2.remove ads",//use # to wrap
-  "minSupport":1,	//min support version. while your app versionCode less than  minSupport,You must update app
+  "minSupport":2,	//min support version. while your app versionCode less than  minSupport,You must update app
   "url":"apk download url"
 }
