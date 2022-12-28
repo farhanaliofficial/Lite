@@ -22,6 +22,19 @@ To extract your Facebook cookies and access token, simply open the **Lite++** cl
 # How to use Desktop Mode
 To use Facebook in desktop mode, simply open the **Lite++** click on top right 3 dots menu and select the "Extract Cookies" option.
 
+# Screenshots
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/1.jpg)
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/2.jpg)
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/3.jpg)
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/4.jpg)
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/5.jpg)
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/6.jpg)
+
 # Important Note
 **Lite++** is currently in the development phase and as such, it is possible that users may encounter errors or bugs while using the app. If you experience any issues while using Lite++, please open a new issue on the app's GitHub page.
 
