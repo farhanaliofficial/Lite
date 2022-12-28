@@ -1,7 +1,0 @@
-{
-  "versionCode":2,
-  "versionName":"0.2",
-  "content":"1.add new features#2.remove ads",//use # to wrap
-  "minSupport":2,	//min support version. while your app versionCode less than  minSupport,You must update app
-  "url":"https://www.mediafire.com/file/cc3f5lrxft2b3ea/AntiSplit-G2_1.3.apk"
-}
