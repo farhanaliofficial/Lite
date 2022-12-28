@@ -33,10 +33,10 @@ To use Facebook in desktop mode, simply open the **Lite++** click on top right 3
 #
 ![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/5.jpg)
 #
-![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/6.jpg)
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/6.png)
 
 # Important Note
-**Lite++** is currently in the development phase and as such, it is possible that users may encounter errors or bugs while using the app. If you experience any issues while using Lite++, please open a new issue on the app's GitHub page.
+**Lite++** is currently in the development phase and as such, it is possible that users may encounter errors or bugs while using the app. If you experience any issues while using **Lite++**, please open a new issue on the app's GitHub page.
 
 # Latest Version
 **Lite++** has currently 0.01 latest Version.
