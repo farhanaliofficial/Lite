@@ -29,3 +29,5 @@ Lite++ is currently in the development phase and as such, it is possible that us
 Lite++ has currently 0.01 latest Version.
 
 # How to Download
+Click on Download Button to download Latest Version of Lite++
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://www.mediafire.com/file/ycvkf4pwkep340p/Lite%252B%252B_0.01_Farhan_Ali.apk)
