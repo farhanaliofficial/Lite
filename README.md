@@ -22,7 +22,7 @@ To extract your Facebook cookies and access token, simply open the **Lite++** cl
 # How to use Desktop Mode
 To use Facebook in desktop mode, simply open the **Lite++** click on top right 3 dots menu and select the "Extract Cookies" option.
 
-# Screenshots
+# Screenshots 0.01
 ![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/1.jpg)
 #
 ![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/2.jpg)
@@ -35,6 +35,18 @@ To use Facebook in desktop mode, simply open the **Lite++** click on top right 3
 #
 ![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/6.png)
 
+# Screenshot 0.02
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/7.png)
+#
+![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/8.png)
+
+# Update 0.02
+-Added Edit Cookies Feature
+-Desktop Option Fixed
+-Improved
+-Added Some Shortcuts for Facebook
+
 # Important Note
 **Lite++** is currently in the development phase and as such, it is possible that users may encounter errors or bugs while using the app. If you experience any issues while using **Lite++**, please open a new issue on the app's GitHub page.
 
@@ -43,4 +55,4 @@ To use Facebook in desktop mode, simply open the **Lite++** click on top right 3
 
 # How to Download
 Click on Download Button to download Latest Version of **Lite++**<br>
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://www.mediafire.com/file/ycvkf4pwkep340p/Lite%252B%252B_0.01_Farhan_Ali.apk)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://www.mediafire.com/file/gbwypjy3694qcrl/Lite%252B%252B_0.02_Farhan_Ali.apk/file)
