@@ -55,4 +55,4 @@ To use Facebook in desktop mode, simply open the **Lite++** click on top right 3
 
 # How to Download
 Click on Download Button to download Latest Version of **Lite++**<br>
-[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://www.mediafire.com/file/gbwypjy3694qcrl/Lite%252B%252B_0.02_Farhan_Ali.apk/file)
+[![Download apk](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://www.mediafire.com/file/pg4zad15e5swm9h/Lite++_0.02_Farhan_Ali.apk/file)
