@@ -42,16 +42,16 @@ To use Facebook in desktop mode, simply open the **Lite++** click on top right 3
 ![Screenshot](https://raw.githubusercontent.com/farhanaliofficial/Lite/main/Screenshots/8.png)
 
 # Update 0.02
--Added Edit Cookies Feature
--Desktop Option Fixed
--Improved
--Added Some Shortcuts for Facebook
+- -Added Edit Cookies Feature
+- -Desktop Option Fixed
+- -Improved
+- -Added Some Shortcuts for Facebook
 
 # Important Note
 **Lite++** is currently in the development phase and as such, it is possible that users may encounter errors or bugs while using the app. If you experience any issues while using **Lite++**, please open a new issue on the app's GitHub page.
 
 # Latest Version
-**Lite++** has currently 0.01 latest Version.
+**Lite++** has currently 0.02 latest Version.
 
 # How to Download
 Click on Download Button to download Latest Version of **Lite++**<br>
